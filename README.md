@@ -34,14 +34,14 @@
   - Exibe o nome do anime e pergunta se você deseja apagar.
   - Se você confirmar, o anime será excluído; caso contrário, a operação será cancelada.
 
-* **LISTAR ANIMES CADASTRADOS: 🏃🔨**
+* **LISTAR ANIMES CADASTRADOS: 👍**
   - Apresenta duas opções: Listar todos os animes ou Listar top 10.
   - Após a escolha, exibe a lista correspondente.
 
-* **ESCREVER TOP 10: 👎🔨**
+* **ESCREVER TOP 10: 👍**
   - Permite cadastrar a lista dos 10 animes favoritos.
 
-* **SALVAR: 👎🔨**
+* **SALVAR: 👍**
   - Salva o progresso e exibe uma mensagem de confirmação "Salvo".
 
 * **SAIR: 👍**
