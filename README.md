@@ -24,6 +24,13 @@
  Vou criar um programa simples em C++ para gerenciar meus animes. O objetivo é permitir que você adicione o nome e uma descrição (que pode ser um comentário ou a marcação do episódio onde parou). O programa terá as seguintes funcionalidades: adicionar e excluir animes, criar uma lista dos 10 mais favoritos e salvar o progresso feito.
 </p>
 
+<H3>📌 Atualizações futuras</H3>
+
+  - Adicionar um opção no meu de ''Editar comentario'' <br>
+  - Adicionar um opção de cancelar quando for escrever o nome do anime <br>
+  - fazer uma ordenação de vetor para que o TOP 10 seja listando em ordem númerica <br>
+  - achar alguma forma de não travar o sistema quando nao for colcado o tipo certo em uma váriavel. <br>
+  
 # :hammer: Funcionalidades do projeto
 
 * **CADASTRAR: 👍** 
