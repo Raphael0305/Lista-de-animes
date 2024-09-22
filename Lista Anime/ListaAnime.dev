@@ -1,6 +1,6 @@
 [Project]
-FileName=projeto_ListaAnime.dev
-Name=projeto_ListaAnime
+FileName=ListaAnime.dev
+Name=ListaAnime
 Type=1
 Ver=2
 ObjFiles=
@@ -28,7 +28,7 @@ Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
-CompilerSettings=0000000000000000000000000
+CompilerSettings=00000000g0000000000000000
 
 [VersionInfo]
 Major=1
